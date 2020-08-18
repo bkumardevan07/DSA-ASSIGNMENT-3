@@ -1,0 +1,20 @@
+1.python3 graph_gen.py 1000 0.67
+  make
+  ./a.out >test.txt
+  1000
+  3
+
+2.python3 graph_gen.py 567 0.88
+  make
+  ./a.out >test.txt
+  567
+  3
+
+3.python3 graph_gen.py 2456 0.02
+  make
+  ./a.out >test.txt
+  2456
+  3
+
+	
+	
